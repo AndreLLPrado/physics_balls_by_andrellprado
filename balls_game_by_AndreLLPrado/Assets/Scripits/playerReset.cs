@@ -15,7 +15,7 @@ public class playerReset : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (GameObject.Find("player").transform.position.y <= -50)
+        if (GameObject.Find("player").transform.position.y <= -30)
         {
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
         }

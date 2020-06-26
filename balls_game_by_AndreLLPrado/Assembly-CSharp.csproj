@@ -77,6 +77,7 @@
     <Compile Include="Assets\Scripits\moviment_player.cs" />
     <Compile Include="Assets\Scripits\music_player_script.cs" />
     <Compile Include="Assets\Scripits\playerReset.cs" />
+    <Compile Include="Assets\Scripits\target_light_scripit.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/andre/Documents/Projetos/Unity/Balls_game/balls_game_by_AndreLLPrado/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>

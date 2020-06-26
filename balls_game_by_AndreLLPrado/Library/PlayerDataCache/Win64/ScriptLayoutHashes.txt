@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-C:/Users/andre/Documents/Projetos/Unity/Balls_game/builds/balls_game_by_AndreLLPrado.exe
+C:/Users/andre/Documents/Projetos/Unity/Balls_game/builds/0.2/Physics_balls_by_AndreLLPrado.exe
 SceneListBegin?
 Assets/Scenes/main_menu.unity
 Assets/Scenes/credits_menu.unity
@@ -194,3 +194,4 @@ df434544c9f7b33d1cc7e635b180d279 Unity.TextMeshPro.dll:TMPro.TextMeshPro
 ac6acd886c54c48c599ab5fed5781ea7 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.AmbientOcclusion
 8649814970b42d345b89944b862453cc Unity.TextMeshPro.dll:TMPro.TMP_SubMesh
 71bb6a6b6c8f052f948db64c7dd3ca4f Assembly-CSharp.dll:.back_to_menu_scripit
+0ffe920bb228bb1b64c7ca9543addde5 Assembly-CSharp.dll:.target_light_scripit
